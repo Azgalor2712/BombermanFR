@@ -1,0 +1,507 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.20f1 (41c4e627c95f) revision 4310246'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 8034 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/UnityP/BombermanFR
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54555
+Successfully changed project path to: D:/UnityP/BombermanFR
+D:/UnityP/BombermanFR
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.44 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.20f1 (41c4e627c95f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/UnityP/BombermanFR/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   30.0.14.9709
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56504
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003676 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.910 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2910ms)
+		BeginReloadAssembly (61ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (422ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (148ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (188ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (40ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (72ms)
+				ProcessInitializeOnLoadMethodAttributes (61ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.080433 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 38.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.740 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1741ms)
+		BeginReloadAssembly (146ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (1538ms)
+			LoadAssemblies (747ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (311ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (47ms)
+			SetupLoadedEditorAssemblies (316ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (38ms)
+				BeforeProcessingInitializeOnLoad (68ms)
+				ProcessInitializeOnLoadAttributes (187ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2093 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.1 MB.
+System memory in use after: 93.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2532.
+Total: 3.100300 ms (FindLiveObjects: 0.176200 ms CreateObjectMapping: 0.069900 ms MarkObjects: 2.794700 ms  DeleteObjects: 0.058900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Packables/SpriteSheets/SNES - Super Bomberman - Tiles.png
+  artifactKey: Guid(1446e058361387345b2541498aecae95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/SNES - Super Bomberman - Tiles.png using Guid(1446e058361387345b2541498aecae95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6254ac353a1a33bf8588cff8d77283ab') in 0.481939 seconds 
+  Import took 0.530052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.982186 seconds.
+  path: Assets/Packables/SpriteSheets/SNES - Super Bomberman - Stage 1-1.png
+  artifactKey: Guid(8c603d2f289a0494b991488de1eeb43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/SNES - Super Bomberman - Stage 1-1.png using Guid(8c603d2f289a0494b991488de1eeb43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9891f73fe0efd693e3b9192bdd3cbba') in 0.052208 seconds 
+  Import took 0.087167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.950258 seconds.
+  path: Assets/Packables/SpriteSheets/SNES - Super Bomberman - Tiles.png
+  artifactKey: Guid(1446e058361387345b2541498aecae95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/SNES - Super Bomberman - Tiles.png using Guid(1446e058361387345b2541498aecae95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68a16fc97df64fa4069be277ebacfc47') in 0.479234 seconds 
+  Import took 0.536558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 436.218418 seconds.
+  path: Assets/Packables/SpriteSheets/Game Boy Advance - Bomberman Jetters Game Collection JPN - Bombs and Powerups.png
+  artifactKey: Guid(b8ca62d526d472742bd7f9b5087adb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/Game Boy Advance - Bomberman Jetters Game Collection JPN - Bombs and Powerups.png using Guid(b8ca62d526d472742bd7f9b5087adb48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159ab9dff81e124b6e9a18d7dafba17a') in 0.027400 seconds 
+  Import took 0.089066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.462386 seconds.
+  path: Assets/Packables/SpriteSheets/World 1 Enemies.png
+  artifactKey: Guid(0f6efd910c8bf684eb1e79b06786e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/World 1 Enemies.png using Guid(0f6efd910c8bf684eb1e79b06786e002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '820ced5da83be7024caa396cded4ac2e') in 0.057435 seconds 
+  Import took 0.099779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.410596 seconds.
+  path: Assets/Palettes
+  artifactKey: Guid(cc8c04326fd52b845a2fbbd3ea698b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes using Guid(cc8c04326fd52b845a2fbbd3ea698b33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3ddecafe37891da5e65f951457e5a9') in 0.001503 seconds 
+  Import took 0.070029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.749793 seconds.
+  path: Assets/Palettes/Tiles
+  artifactKey: Guid(77d087ff3e4db8c42b98d0f0e28927b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles using Guid(77d087ff3e4db8c42b98d0f0e28927b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07937bf94d37f286924e3edfcc4aa7e0') in 0.001556 seconds 
+  Import took 0.016956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.252547 seconds.
+  path: Assets/Palettes/SNES - Super Bomberman - Tiles_176.asset
+  artifactKey: Guid(c0f860f49acbec943a33880fe608d642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/SNES - Super Bomberman - Tiles_176.asset using Guid(c0f860f49acbec943a33880fe608d642) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c194bcd5f4e2750d7b71bc8f175869') in 0.024349 seconds 
+  Import took 0.070261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 708.075844 seconds.
+  path: Assets/Packables/SpriteSheets/SNES - Super Bomberman - Stage 1-1.png
+  artifactKey: Guid(8c603d2f289a0494b991488de1eeb43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/SNES - Super Bomberman - Stage 1-1.png using Guid(8c603d2f289a0494b991488de1eeb43e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6811b7fe509e39dad02a21b5b338f216') in 0.363024 seconds 
+  Import took 0.415926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.705182 seconds.
+  path: Assets/Palettes/Level1.prefab
+  artifactKey: Guid(bdf136b7bfa2dfb449357a9c6796339e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Level1.prefab using Guid(bdf136b7bfa2dfb449357a9c6796339e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3771ed50da7cb1fc324792cfba8aa48') in 0.042613 seconds 
+  Import took 0.094630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(fc640f6dfd5970a41a5efafd95bb424f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(fc640f6dfd5970a41a5efafd95bb424f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9174f43ec3598596f9bd456e55501409') in 0.001195 seconds 
+  Import took 0.018593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.596495 seconds.
+  path: Assets/Packables/SpriteSheets/BombExplosions.png
+  artifactKey: Guid(7b5020797ed589746b99d084285ebb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/BombExplosions.png using Guid(7b5020797ed589746b99d084285ebb9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43999918380f920e83866b6014f05f66') in 0.039151 seconds 
+  Import took 0.269482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Packables/SpriteSheets/Bomberman.png
+  artifactKey: Guid(a45ac2bbb68d0d74caff2ecf28729bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/Bomberman.png using Guid(a45ac2bbb68d0d74caff2ecf28729bb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23036d738bd7a950aa8ab2e1d50b9590') in 0.110613 seconds 
+  Import took 0.160884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6307.587503 seconds.
+  path: Assets/Packables/Sprites/Explosion.png
+  artifactKey: Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/Sprites/Explosion.png using Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fe41be57fa41b0360dc5efed9e2e7c') in 0.013782 seconds 
+  Import took 0.017550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.730021 seconds.
+  path: Assets/Packables/SpriteSheets/Explosion.png
+  artifactKey: Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/Explosion.png using Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb88503b1c4d68698d0d016604cfd48f') in 0.004432 seconds 
+  Import took 0.040757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.009571 seconds.
+  path: Assets/Packables/SpriteSheets/Explosion.png
+  artifactKey: Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/Explosion.png using Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528ad2cd79e174c5319ff0e3f5f19ed4') in 0.008505 seconds 
+  Import took 0.029050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.530504 seconds.
+  path: Assets/Packables/SpriteSheets/Explosion.png
+  artifactKey: Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Packables/SpriteSheets/Explosion.png using Guid(17e5f0d71c8e48348ada3d7695027d94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1baa6ad8eb59d01a84b825b16ec9e3') in 0.029464 seconds 
+  Import took 0.032667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.079233 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_167.asset
+  artifactKey: Guid(a00174a44ede8664d9df3a6e22273927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_167.asset using Guid(a00174a44ede8664d9df3a6e22273927) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4adacbba64b6162e862c416950675189') in 0.508985 seconds 
+  Import took 0.548300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.731734 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_166.asset
+  artifactKey: Guid(fc69b7ed55a6ae946addccd3dd5ceb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_166.asset using Guid(fc69b7ed55a6ae946addccd3dd5ceb88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69051f6bf8484999e439278753a550d') in 0.043508 seconds 
+  Import took 0.064833 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.615727 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_175.asset
+  artifactKey: Guid(7a95c951b89eb3c4680d76c5af36cb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_175.asset using Guid(7a95c951b89eb3c4680d76c5af36cb7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '868ba0daa8a73e90bde2d1351ed573ff') in 0.038088 seconds 
+  Import took 0.041429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.085114 seconds.
+  path: Assets/Palettes/Tiles/map1
+  artifactKey: Guid(e974db7e1d3739248b62cb518352e07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1 using Guid(e974db7e1d3739248b62cb518352e07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88ed845eca85b8f00d963bd59433262d') in 0.001371 seconds 
+  Import took 0.005575 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.443333 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_0.asset
+  artifactKey: Guid(1794e12acb2722843b6c9c34cc5412da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_0.asset using Guid(1794e12acb2722843b6c9c34cc5412da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46dc515877772928cd6ebab0bca41e29') in 0.085506 seconds 
+  Import took 0.140776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.387312 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_1.asset
+  artifactKey: Guid(e5ec668172bf3094cb12363afad3bc6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_1.asset using Guid(e5ec668172bf3094cb12363afad3bc6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c98714eae26c664d191b1a4811c2fec') in 0.044185 seconds 
+  Import took 0.047827 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.369773 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_3.asset
+  artifactKey: Guid(5434af2e45be6e445bdcfe962af904fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_3.asset using Guid(5434af2e45be6e445bdcfe962af904fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b248c2676a12cc5d93d9454bc46faa') in 0.034847 seconds 
+  Import took 0.068912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.312793 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_6.asset
+  artifactKey: Guid(2eec70606d224984cba4cfa0669f1c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_6.asset using Guid(2eec70606d224984cba4cfa0669f1c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b639f63763590467ab8c94c03fd2d66f') in 0.042103 seconds 
+  Import took 0.062364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.321170 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_11.asset
+  artifactKey: Guid(a51321a7f954b7a46bc88ed6d9b10aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_11.asset using Guid(a51321a7f954b7a46bc88ed6d9b10aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2c2e217dd0ae945df6a9a7ee722a070') in 0.035648 seconds 
+  Import took 0.038776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.976562 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_15.asset
+  artifactKey: Guid(1bbb045be60740345bd9dcc24e739fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_15.asset using Guid(1bbb045be60740345bd9dcc24e739fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17286866ff96232e70b63e511a8c794a') in 0.043689 seconds 
+  Import took 0.062027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.442481 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_17.asset
+  artifactKey: Guid(411538613a5080946873760c08cbd99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_17.asset using Guid(411538613a5080946873760c08cbd99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7beed2e0989ee06c89fcd2711f99c914') in 0.039184 seconds 
+  Import took 0.057374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.364721 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_168.asset
+  artifactKey: Guid(244bda1992a06a94b8ee29513c2569e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_168.asset using Guid(244bda1992a06a94b8ee29513c2569e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4baf631c7a8dffc9b34f0b3dbdaa334') in 0.053866 seconds 
+  Import took 0.057216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117357 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_169.asset
+  artifactKey: Guid(9c2da0717d601154b853bc6c84962923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_169.asset using Guid(9c2da0717d601154b853bc6c84962923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c809876f0047dea37e32d3e3a3b069a1') in 0.031205 seconds 
+  Import took 0.047905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127020 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_170.asset
+  artifactKey: Guid(f469f3c3091ecbb4880259ef4fda209e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_170.asset using Guid(f469f3c3091ecbb4880259ef4fda209e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b927296eea4b47cbbb39c9a579d5b4ad') in 0.029433 seconds 
+  Import took 0.032618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132352 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_171.asset
+  artifactKey: Guid(bbcdc757f6792be49983261cdd64a0d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_171.asset using Guid(bbcdc757f6792be49983261cdd64a0d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7002732b15afe1ca9f897f6cb5ffef3') in 0.031437 seconds 
+  Import took 0.034766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.133639 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_172.asset
+  artifactKey: Guid(dfd33052d8e6f7f44a163a6d068c988b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_172.asset using Guid(dfd33052d8e6f7f44a163a6d068c988b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '819e7772a8019eea86cff5395b1efdb1') in 0.027211 seconds 
+  Import took 0.031153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.134349 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_173.asset
+  artifactKey: Guid(a9acc7b780417c0419677607a120c959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_173.asset using Guid(a9acc7b780417c0419677607a120c959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4f6fd81a21e41ebac340daa07fcce89') in 0.051307 seconds 
+  Import took 0.054585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120001 seconds.
+  path: Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_174.asset
+  artifactKey: Guid(3326f40f624483e4ab53702c9ea72777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/SNES - Super Bomberman - Tiles_174.asset using Guid(3326f40f624483e4ab53702c9ea72777) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e94648a54f657c2f396d42e893f75ad2') in 0.031224 seconds 
+  Import took 0.034492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.719979 seconds.
+  path: Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_4.asset
+  artifactKey: Guid(d320f56a99298ef4ea5ac560332a14c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Palettes/Tiles/map1/SNES - Super Bomberman - Stage 1-1_4.asset using Guid(d320f56a99298ef4ea5ac560332a14c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da2cd96be110a5a2b2f0153b7beae3c') in 0.037970 seconds 
+  Import took 0.069796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.388308 seconds.
+  path: Assets/Src
+  artifactKey: Guid(9ac160f0c61cd804aad851966e012a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Src using Guid(9ac160f0c61cd804aad851966e012a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b5a096078f754f00b7bfd14b5d791e3') in 0.001327 seconds 
+  Import took 0.005075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.940006 seconds.
+  path: Assets/Src/Player
+  artifactKey: Guid(a1fcfa003ca09dd4bb3a4bd071d90c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Src/Player using Guid(a1fcfa003ca09dd4bb3a4bd071d90c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4689eff096854d10e208a3fd18bd6e4f') in 0.001484 seconds 
+  Import took 0.050272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.964836 seconds.
+  path: Assets/Src/Bomb
+  artifactKey: Guid(97bd36ef3d99bbf4c896a23a0104fec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Src/Bomb using Guid(97bd36ef3d99bbf4c896a23a0104fec2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d3dcf3fb6cc083726ca13f661812b67') in 0.001593 seconds 
+  Import took 0.005449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.634332 seconds.
+  path: Assets/Src/Player/Player.cs
+  artifactKey: Guid(a39d7bf61bab1c446a7e02672c8d0d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Src/Player/Player.cs using Guid(a39d7bf61bab1c446a7e02672c8d0d7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d610c402458c4b14eeb26a2dc7275c') in 0.008741 seconds 
+  Import took 0.032674 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.077273 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.943 seconds
+Domain Reload Profiling:
+	ReloadAssembly (944ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (772ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (262ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (280ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (179ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2084 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.8 MB.
+System memory in use after: 95.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2622.
+Total: 3.079200 ms (FindLiveObjects: 0.206100 ms CreateObjectMapping: 0.066600 ms MarkObjects: 2.790000 ms  DeleteObjects: 0.015800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

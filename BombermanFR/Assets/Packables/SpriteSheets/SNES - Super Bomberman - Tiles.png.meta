@@ -1,0 +1,4356 @@
+fileFormatVersion: 2
+guid: 1446e058361387345b2541498aecae95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2003728256614819853
+    second: destructable_1
+  - first:
+      213: 805160381618761288
+    second: Destructable_2
+  - first:
+      213: -3691005577225003029
+    second: SNES - Super Bomberman - Tiles_2
+  - first:
+      213: -5093695927327378933
+    second: SNES - Super Bomberman - Tiles_3
+  - first:
+      213: 3521854668578094744
+    second: SNES - Super Bomberman - Tiles_4
+  - first:
+      213: 5538726864699561353
+    second: SNES - Super Bomberman - Tiles_5
+  - first:
+      213: -3590577469613746549
+    second: SNES - Super Bomberman - Tiles_6
+  - first:
+      213: 4793268404582243293
+    second: SNES - Super Bomberman - Tiles_7
+  - first:
+      213: 6759512239951544251
+    second: SNES - Super Bomberman - Tiles_8
+  - first:
+      213: 5739151972232877508
+    second: SNES - Super Bomberman - Tiles_9
+  - first:
+      213: -7683003842897790455
+    second: SNES - Super Bomberman - Tiles_10
+  - first:
+      213: -593091907920771065
+    second: SNES - Super Bomberman - Tiles_11
+  - first:
+      213: 2761875282829337373
+    second: SNES - Super Bomberman - Tiles_12
+  - first:
+      213: 8938118789230497700
+    second: SNES - Super Bomberman - Tiles_13
+  - first:
+      213: 3458273709110723547
+    second: SNES - Super Bomberman - Tiles_14
+  - first:
+      213: 2256606939491780445
+    second: SNES - Super Bomberman - Tiles_15
+  - first:
+      213: 1348071196046574380
+    second: SNES - Super Bomberman - Tiles_16
+  - first:
+      213: -1661716633825793952
+    second: SNES - Super Bomberman - Tiles_17
+  - first:
+      213: 7904164414129699886
+    second: SNES - Super Bomberman - Tiles_18
+  - first:
+      213: 3274904828812433152
+    second: SNES - Super Bomberman - Tiles_19
+  - first:
+      213: -9132776260465069075
+    second: SNES - Super Bomberman - Tiles_20
+  - first:
+      213: 4918384647422104188
+    second: SNES - Super Bomberman - Tiles_21
+  - first:
+      213: -4605032994523758462
+    second: SNES - Super Bomberman - Tiles_22
+  - first:
+      213: 1680409048200576747
+    second: SNES - Super Bomberman - Tiles_23
+  - first:
+      213: -3908731047432355123
+    second: SNES - Super Bomberman - Tiles_24
+  - first:
+      213: 4104781718411596148
+    second: SNES - Super Bomberman - Tiles_25
+  - first:
+      213: -4202595726795281236
+    second: SNES - Super Bomberman - Tiles_26
+  - first:
+      213: -895774336301785563
+    second: SNES - Super Bomberman - Tiles_27
+  - first:
+      213: -3861512595669873250
+    second: SNES - Super Bomberman - Tiles_28
+  - first:
+      213: 8203250115900488977
+    second: SNES - Super Bomberman - Tiles_29
+  - first:
+      213: -686284867362325959
+    second: SNES - Super Bomberman - Tiles_30
+  - first:
+      213: -3698755574612508856
+    second: SNES - Super Bomberman - Tiles_31
+  - first:
+      213: 2829524960231117172
+    second: SNES - Super Bomberman - Tiles_32
+  - first:
+      213: -2708798216772698520
+    second: SNES - Super Bomberman - Tiles_33
+  - first:
+      213: 1521899808392496428
+    second: SNES - Super Bomberman - Tiles_34
+  - first:
+      213: 8846725984636787564
+    second: SNES - Super Bomberman - Tiles_35
+  - first:
+      213: 7584180076739074870
+    second: SNES - Super Bomberman - Tiles_36
+  - first:
+      213: -8195823685612583720
+    second: SNES - Super Bomberman - Tiles_37
+  - first:
+      213: 2621092881349455666
+    second: SNES - Super Bomberman - Tiles_38
+  - first:
+      213: 5889764819926862910
+    second: SNES - Super Bomberman - Tiles_39
+  - first:
+      213: 5888112286849517498
+    second: SNES - Super Bomberman - Tiles_40
+  - first:
+      213: 5936059148558535209
+    second: SNES - Super Bomberman - Tiles_41
+  - first:
+      213: 23314040964055180
+    second: SNES - Super Bomberman - Tiles_42
+  - first:
+      213: 2368822642017052617
+    second: SNES - Super Bomberman - Tiles_43
+  - first:
+      213: -8461376702903612153
+    second: SNES - Super Bomberman - Tiles_44
+  - first:
+      213: -7203314229877313128
+    second: SNES - Super Bomberman - Tiles_45
+  - first:
+      213: 4342800038128508336
+    second: SNES - Super Bomberman - Tiles_46
+  - first:
+      213: 5809554780511432722
+    second: SNES - Super Bomberman - Tiles_47
+  - first:
+      213: -8271507462678235318
+    second: SNES - Super Bomberman - Tiles_48
+  - first:
+      213: -4899624575469100049
+    second: SNES - Super Bomberman - Tiles_49
+  - first:
+      213: 4668226723575247515
+    second: SNES - Super Bomberman - Tiles_50
+  - first:
+      213: -5450562930622867703
+    second: SNES - Super Bomberman - Tiles_51
+  - first:
+      213: 7362818811164249116
+    second: SNES - Super Bomberman - Tiles_52
+  - first:
+      213: -4703548094594577932
+    second: SNES - Super Bomberman - Tiles_53
+  - first:
+      213: -4154224733361793044
+    second: SNES - Super Bomberman - Tiles_54
+  - first:
+      213: 6811762810405500629
+    second: SNES - Super Bomberman - Tiles_55
+  - first:
+      213: 3753524641021162147
+    second: SNES - Super Bomberman - Tiles_56
+  - first:
+      213: -4772694331939731730
+    second: SNES - Super Bomberman - Tiles_57
+  - first:
+      213: -8177177274058666834
+    second: SNES - Super Bomberman - Tiles_58
+  - first:
+      213: 3635467043904352194
+    second: SNES - Super Bomberman - Tiles_59
+  - first:
+      213: -651092134654649056
+    second: SNES - Super Bomberman - Tiles_60
+  - first:
+      213: 6150545542322751996
+    second: SNES - Super Bomberman - Tiles_61
+  - first:
+      213: -5607458618955016933
+    second: SNES - Super Bomberman - Tiles_62
+  - first:
+      213: 801459356694102409
+    second: SNES - Super Bomberman - Tiles_63
+  - first:
+      213: -4141817361451736735
+    second: SNES - Super Bomberman - Tiles_64
+  - first:
+      213: 3735737686352382063
+    second: SNES - Super Bomberman - Tiles_65
+  - first:
+      213: 1384161040907542493
+    second: SNES - Super Bomberman - Tiles_66
+  - first:
+      213: -3838751995073898124
+    second: SNES - Super Bomberman - Tiles_67
+  - first:
+      213: 6243767118111805573
+    second: SNES - Super Bomberman - Tiles_68
+  - first:
+      213: 5532165902724952518
+    second: SNES - Super Bomberman - Tiles_69
+  - first:
+      213: -2491756809493301414
+    second: SNES - Super Bomberman - Tiles_70
+  - first:
+      213: -8557250762193206823
+    second: SNES - Super Bomberman - Tiles_71
+  - first:
+      213: 3111983999541454850
+    second: SNES - Super Bomberman - Tiles_72
+  - first:
+      213: -7106130531979253995
+    second: SNES - Super Bomberman - Tiles_73
+  - first:
+      213: -6798098009317825343
+    second: SNES - Super Bomberman - Tiles_74
+  - first:
+      213: 7502051364555281517
+    second: SNES - Super Bomberman - Tiles_75
+  - first:
+      213: -194442372120142804
+    second: SNES - Super Bomberman - Tiles_76
+  - first:
+      213: -8491847873852909142
+    second: SNES - Super Bomberman - Tiles_77
+  - first:
+      213: 9070680251275516374
+    second: SNES - Super Bomberman - Tiles_78
+  - first:
+      213: 6003085800049867049
+    second: SNES - Super Bomberman - Tiles_79
+  - first:
+      213: -8541589688138283105
+    second: SNES - Super Bomberman - Tiles_80
+  - first:
+      213: -1868490838185597304
+    second: SNES - Super Bomberman - Tiles_81
+  - first:
+      213: -3035278079855647756
+    second: SNES - Super Bomberman - Tiles_82
+  - first:
+      213: -1055935822456405188
+    second: SNES - Super Bomberman - Tiles_83
+  - first:
+      213: 3700764403582115246
+    second: SNES - Super Bomberman - Tiles_84
+  - first:
+      213: -4149254887474416008
+    second: SNES - Super Bomberman - Tiles_85
+  - first:
+      213: -1240596414737778102
+    second: SNES - Super Bomberman - Tiles_86
+  - first:
+      213: 6261064302507283110
+    second: SNES - Super Bomberman - Tiles_87
+  - first:
+      213: 7247746534802184391
+    second: SNES - Super Bomberman - Tiles_88
+  - first:
+      213: -1702231215120187487
+    second: SNES - Super Bomberman - Tiles_89
+  - first:
+      213: 7417678471322753404
+    second: SNES - Super Bomberman - Tiles_90
+  - first:
+      213: 1125832251914565575
+    second: SNES - Super Bomberman - Tiles_91
+  - first:
+      213: -3846509039094948932
+    second: SNES - Super Bomberman - Tiles_92
+  - first:
+      213: -7095329493821942417
+    second: SNES - Super Bomberman - Tiles_93
+  - first:
+      213: 4215300730055319529
+    second: SNES - Super Bomberman - Tiles_94
+  - first:
+      213: 4097547493255458868
+    second: SNES - Super Bomberman - Tiles_95
+  - first:
+      213: 4495902185335509222
+    second: SNES - Super Bomberman - Tiles_96
+  - first:
+      213: 7596414407902927715
+    second: SNES - Super Bomberman - Tiles_97
+  - first:
+      213: 6559776076665162211
+    second: SNES - Super Bomberman - Tiles_98
+  - first:
+      213: -5991680762603910337
+    second: SNES - Super Bomberman - Tiles_99
+  - first:
+      213: 4211566662011006977
+    second: SNES - Super Bomberman - Tiles_100
+  - first:
+      213: 146370734482374131
+    second: SNES - Super Bomberman - Tiles_101
+  - first:
+      213: 2580493063584329943
+    second: SNES - Super Bomberman - Tiles_102
+  - first:
+      213: 5905130469589025865
+    second: SNES - Super Bomberman - Tiles_103
+  - first:
+      213: -4062602394967611381
+    second: SNES - Super Bomberman - Tiles_104
+  - first:
+      213: 4509386673372006748
+    second: SNES - Super Bomberman - Tiles_105
+  - first:
+      213: 1298411940331055102
+    second: SNES - Super Bomberman - Tiles_106
+  - first:
+      213: 2764001986859640785
+    second: SNES - Super Bomberman - Tiles_107
+  - first:
+      213: -7620125008269525198
+    second: SNES - Super Bomberman - Tiles_108
+  - first:
+      213: 2150607291571493431
+    second: SNES - Super Bomberman - Tiles_109
+  - first:
+      213: 4121627358127502393
+    second: SNES - Super Bomberman - Tiles_110
+  - first:
+      213: 6441590815536153997
+    second: SNES - Super Bomberman - Tiles_111
+  - first:
+      213: 1566200256742613056
+    second: SNES - Super Bomberman - Tiles_112
+  - first:
+      213: 3970319963431603702
+    second: SNES - Super Bomberman - Tiles_113
+  - first:
+      213: -7465135351680764689
+    second: SNES - Super Bomberman - Tiles_114
+  - first:
+      213: 3004727442452247322
+    second: SNES - Super Bomberman - Tiles_115
+  - first:
+      213: -3057871550422391518
+    second: SNES - Super Bomberman - Tiles_116
+  - first:
+      213: 4023643525190230968
+    second: SNES - Super Bomberman - Tiles_117
+  - first:
+      213: -819510742124298293
+    second: SNES - Super Bomberman - Tiles_118
+  - first:
+      213: -2828906638714489162
+    second: SNES - Super Bomberman - Tiles_119
+  - first:
+      213: -6098570668328893839
+    second: SNES - Super Bomberman - Tiles_120
+  - first:
+      213: -4187166213639310751
+    second: SNES - Super Bomberman - Tiles_121
+  - first:
+      213: -5160471583742383615
+    second: SNES - Super Bomberman - Tiles_122
+  - first:
+      213: 6559695272604710130
+    second: SNES - Super Bomberman - Tiles_123
+  - first:
+      213: -227033435834825442
+    second: SNES - Super Bomberman - Tiles_124
+  - first:
+      213: 8956987089880910514
+    second: SNES - Super Bomberman - Tiles_125
+  - first:
+      213: -1871539070612875747
+    second: SNES - Super Bomberman - Tiles_126
+  - first:
+      213: 2316279214566350105
+    second: SNES - Super Bomberman - Tiles_127
+  - first:
+      213: 5097824928334262512
+    second: SNES - Super Bomberman - Tiles_128
+  - first:
+      213: 545063702403406291
+    second: SNES - Super Bomberman - Tiles_129
+  - first:
+      213: -5235446351917084469
+    second: SNES - Super Bomberman - Tiles_130
+  - first:
+      213: -1077490908525406451
+    second: SNES - Super Bomberman - Tiles_131
+  - first:
+      213: 8664415407999041414
+    second: SNES - Super Bomberman - Tiles_132
+  - first:
+      213: -4010051197987315034
+    second: SNES - Super Bomberman - Tiles_133
+  - first:
+      213: 2672483269280702008
+    second: SNES - Super Bomberman - Tiles_134
+  - first:
+      213: -3095925244778416934
+    second: SNES - Super Bomberman - Tiles_135
+  - first:
+      213: -988496988390897640
+    second: SNES - Super Bomberman - Tiles_136
+  - first:
+      213: -7582702511318575493
+    second: SNES - Super Bomberman - Tiles_137
+  - first:
+      213: -6211021683958578920
+    second: SNES - Super Bomberman - Tiles_138
+  - first:
+      213: -7683901219714217650
+    second: SNES - Super Bomberman - Tiles_139
+  - first:
+      213: 8289997674860947920
+    second: SNES - Super Bomberman - Tiles_140
+  - first:
+      213: 4054519890156165253
+    second: SNES - Super Bomberman - Tiles_141
+  - first:
+      213: 8408557798079980442
+    second: SNES - Super Bomberman - Tiles_142
+  - first:
+      213: -804512001681634961
+    second: SNES - Super Bomberman - Tiles_143
+  - first:
+      213: -3246284480405655512
+    second: SNES - Super Bomberman - Tiles_144
+  - first:
+      213: 6983893314996963864
+    second: SNES - Super Bomberman - Tiles_145
+  - first:
+      213: -3153166172560951401
+    second: SNES - Super Bomberman - Tiles_146
+  - first:
+      213: 2909746829257683998
+    second: SNES - Super Bomberman - Tiles_147
+  - first:
+      213: -4782698694202764093
+    second: SNES - Super Bomberman - Tiles_148
+  - first:
+      213: 6981268645422650482
+    second: SNES - Super Bomberman - Tiles_149
+  - first:
+      213: 6407693117050750084
+    second: SNES - Super Bomberman - Tiles_150
+  - first:
+      213: 300759910504917612
+    second: SNES - Super Bomberman - Tiles_151
+  - first:
+      213: -4622502595666150478
+    second: SNES - Super Bomberman - Tiles_152
+  - first:
+      213: 918896109781222958
+    second: SNES - Super Bomberman - Tiles_153
+  - first:
+      213: 4658370171535337051
+    second: SNES - Super Bomberman - Tiles_154
+  - first:
+      213: 1410081641678708899
+    second: SNES - Super Bomberman - Tiles_155
+  - first:
+      213: -6089170585660854432
+    second: SNES - Super Bomberman - Tiles_156
+  - first:
+      213: -998888521899552243
+    second: SNES - Super Bomberman - Tiles_157
+  - first:
+      213: 5964162247058208882
+    second: SNES - Super Bomberman - Tiles_158
+  - first:
+      213: 1397003960680831109
+    second: SNES - Super Bomberman - Tiles_159
+  - first:
+      213: -3604680343776447491
+    second: SNES - Super Bomberman - Tiles_160
+  - first:
+      213: -3788376425052334458
+    second: SNES - Super Bomberman - Tiles_161
+  - first:
+      213: -7889359858172894211
+    second: SNES - Super Bomberman - Tiles_162
+  - first:
+      213: 3611119899438945168
+    second: SNES - Super Bomberman - Tiles_163
+  - first:
+      213: 2928132890898863005
+    second: SNES - Super Bomberman - Tiles_164
+  - first:
+      213: 6734606901137267593
+    second: SNES - Super Bomberman - Tiles_165
+  - first:
+      213: 2770665327846153754
+    second: SNES - Super Bomberman - Tiles_166
+  - first:
+      213: 4650732666171881277
+    second: SNES - Super Bomberman - Tiles_167
+  - first:
+      213: -1728486198302948410
+    second: SNES - Super Bomberman - Tiles_168
+  - first:
+      213: -3004643193657198983
+    second: SNES - Super Bomberman - Tiles_169
+  - first:
+      213: -1946972265579017037
+    second: SNES - Super Bomberman - Tiles_170
+  - first:
+      213: -45395842790065370
+    second: SNES - Super Bomberman - Tiles_171
+  - first:
+      213: 3455437235907520182
+    second: SNES - Super Bomberman - Tiles_172
+  - first:
+      213: 5204484299077688029
+    second: SNES - Super Bomberman - Tiles_173
+  - first:
+      213: 5563876226389679903
+    second: SNES - Super Bomberman - Tiles_174
+  - first:
+      213: 5099476446029839049
+    second: SNES - Super Bomberman - Tiles_175
+  - first:
+      213: 3376623542452682150
+    second: SNES - Super Bomberman - Tiles_176
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: destructable_1
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0860f1bb3caecb10800000000000000
+      internalID: 2003728256614819853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Destructable_2
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eaa95e9118c2b00800000000000000
+      internalID: 805160381618761288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef9489bbf9e6ccc0800000000000000
+      internalID: -3691005577225003029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b023cc9aa8e8f49b0800000000000000
+      internalID: -5093695927327378933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ef527592420e030800000000000000
+      internalID: 3521854668578094744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985945eecb28ddc40800000000000000
+      internalID: 5538726864699561353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d629a0d4bb2ec0800000000000000
+      internalID: -3590577469613746549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb5a38d73c158240800000000000000
+      internalID: 4793268404582243293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf773d919c9ecd50800000000000000
+      internalID: 6759512239951544251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c55ce8bf4095af40800000000000000
+      internalID: 5739151972232877508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90abd1016bc706590800000000000000
+      internalID: -7683003842897790455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70849355d0ae4c7f0800000000000000
+      internalID: -593091907920771065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1369facfe6245620800000000000000
+      internalID: 2761875282829337373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af0450cea39a0c70800000000000000
+      internalID: 8938118789230497700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd30e9f9d914eff20800000000000000
+      internalID: 3458273709110723547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57c6123e04115f10800000000000000
+      internalID: 2256606939491780445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23ca444c9f45b210800000000000000
+      internalID: 1348071196046574380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a473968560f8e0800000000000000
+      internalID: -1661716633825793952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cfb7618ab31bd60800000000000000
+      internalID: 7904164414129699886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0079392379cc27d20800000000000000
+      internalID: 3274904828812433152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3fbdde06cd14180800000000000000
+      internalID: -9132776260465069075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 618
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72545237cc914440800000000000000
+      internalID: 4918384647422104188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2804576d3e2a710c0800000000000000
+      internalID: -4605032994523758462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beef85b4023025710800000000000000
+      internalID: 1680409048200576747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2014b52d561c9c0800000000000000
+      internalID: -3908731047432355123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 551
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471d07e893d17f830800000000000000
+      internalID: 4104781718411596148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 551
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caceac9e3716da5c0800000000000000
+      internalID: -4202595726795281236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 551
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e12d5bcf19193f0800000000000000
+      internalID: -895774336301785563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d866fd0c6296ac0800000000000000
+      internalID: -3861512595669873250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d3ee9848cc7d170800000000000000
+      internalID: 8203250115900488977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a742a9c83d976f0800000000000000
+      internalID: -686284867362325959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fb938d6616bacc0800000000000000
+      internalID: -3698755574612508856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4715da9b5fd744720800000000000000
+      internalID: 2829524960231117172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e3d09af5a686ad0800000000000000
+      internalID: -2708798216772698520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2548f6ffcfde1510800000000000000
+      internalID: 1521899808392496428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b5e7b3962e5ca70800000000000000
+      internalID: 8846725984636787564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b90aad89b604960800000000000000
+      internalID: 7584180076739074870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 554
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4445108c5924e80800000000000000
+      internalID: -8195823685612583720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fa324a61eff5420800000000000000
+      internalID: 2621092881349455666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c455ef5e5acb150800000000000000
+      internalID: 5889764819926862910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74747ade6c6b150800000000000000
+      internalID: 5888112286849517498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a0a83585e116250800000000000000
+      internalID: 5936059148558535209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8001f92ff3d25000800000000000000
+      internalID: 23314040964055180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7245174afbfd020800000000000000
+      internalID: 2368822642017052617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d0aa018b6239a80800000000000000
+      internalID: -8461376702903612153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89175aa6fdfa80c90800000000000000
+      internalID: -7203314229877313128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdd33320a9b44c30800000000000000
+      internalID: 4342800038128508336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107e83ea4faf9050800000000000000
+      internalID: 5809554780511432722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47321a79c3b53d80800000000000000
+      internalID: -8271507462678235318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3e36e6869010cb0800000000000000
+      internalID: -4899624575469100049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9230b5c87fd8c040800000000000000
+      internalID: 4668226723575247515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907df4694e5bb54b0800000000000000
+      internalID: -5450562930622867703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c4209e2bcfd2660800000000000000
+      internalID: 7362818811164249116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 490
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f989bdade3a9beb0800000000000000
+      internalID: -4703548094594577932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce714d27d9a3956c0800000000000000
+      internalID: -4154224733361793044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6bf609f2e388e50800000000000000
+      internalID: 6811762810405500629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2fdb326c2371430800000000000000
+      internalID: 3753524641021162147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6463bbacbf3cdb0800000000000000
+      internalID: -4772694331939731730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac06520894d48e80800000000000000
+      internalID: -8177177274058666834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfee80d306c37230800000000000000
+      internalID: 3635467043904352194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddbd5372bd6f6f0800000000000000
+      internalID: -651092134654649056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_61
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9820175902b5550800000000000000
+      internalID: 6150545542322751996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_62
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15db7c781e4e22b0800000000000000
+      internalID: -5607458618955016933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_63
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9814aa1e90b5f1b00800000000000000
+      internalID: 801459356694102409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_64
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161af16dd0f4586c0800000000000000
+      internalID: -4141817361451736735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_65
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68c21902a108d330800000000000000
+      internalID: 3735737686352382063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9a331227853310800000000000000
+      internalID: 1384161040907542493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_67
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4795cc826630abac0800000000000000
+      internalID: -3838751995073898124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_68
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580915fec1156a650800000000000000
+      internalID: 6243767118111805573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_69
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 426
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1f27ee39336cc40800000000000000
+      internalID: 5532165902724952518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57bd7732608b6dd0800000000000000
+      internalID: -2491756809493301414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1888125c98e3980800000000000000
+      internalID: -8557250762193206823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_72
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2082e57a5fcff2b20800000000000000
+      internalID: 3111983999541454850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_73
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a1d95ee3f16d90800000000000000
+      internalID: -7106130531979253995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4225ed0ed48a1a0800000000000000
+      internalID: -6798098009317825343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_75
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d645d0fe7f3ac1860800000000000000
+      internalID: 7502051364555281517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c9e7851b33d4df0800000000000000
+      internalID: -194442372120142804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa95758b955e62a80800000000000000
+      internalID: -8491847873852909142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_78
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d99d6841a781ed70800000000000000
+      internalID: 9070680251275516374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_79
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929f92cbabe3f4350800000000000000
+      internalID: 6003085800049867049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97c0651f6d267980800000000000000
+      internalID: -8541589688138283105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_81
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88620eb7b79c116e0800000000000000
+      internalID: -1868490838185597304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3acaffaa680e5d0800000000000000
+      internalID: -3035278079855647756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_83
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3340ecc6ff8851f0800000000000000
+      internalID: -1055935822456405188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_84
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1ce81e91cb5330800000000000000
+      internalID: 3700764403582115246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_85
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 362
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b88dd9a2ea66c0800000000000000
+      internalID: -4149254887474416008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7eed322488cee0800000000000000
+      internalID: -1240596414737778102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a253d28fc4c3e650800000000000000
+      internalID: 6261064302507283110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8d3fcb21b259460800000000000000
+      internalID: 7247746534802184391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_89
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1affd298ab57068e0800000000000000
+      internalID: -1702231215120187487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c795145e443e0f660800000000000000
+      internalID: 7417678471322753404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7bb0cd772cf9f00800000000000000
+      internalID: 1125832251914565575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb9a6b98647e9ac0800000000000000
+      internalID: -3846509039094948932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_93
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6514640b63588d90800000000000000
+      internalID: -7095329493821942417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef546c2ea1cf7a30800000000000000
+      internalID: 4215300730055319529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430b8c14cb96dd830800000000000000
+      internalID: 4097547493255458868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e053dd9737a46e30800000000000000
+      internalID: 4495902185335509222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b96bd08a2eb6960800000000000000
+      internalID: 7596414407902927715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e98bb72691090b50800000000000000
+      internalID: 6559776076665162211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_99
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bc379771649dca0800000000000000
+      internalID: -5991680762603910337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_100
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1003b05b09d727a30800000000000000
+      internalID: 4211566662011006977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 298
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdb5525863080200800000000000000
+      internalID: 146370734482374131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0bd40f4c0cfc320800000000000000
+      internalID: 2580493063584329943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944803810ec33f150800000000000000
+      internalID: 5905130469589025865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ed4875acbe97c0800000000000000
+      internalID: -4062602394967611381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c590835a94f849e30800000000000000
+      internalID: 4509386673372006748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7ee8bc7c2e40210800000000000000
+      internalID: 1298411940331055102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d72e39a925bb5620800000000000000
+      internalID: 2764001986859640785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f360a9da0ef3690800000000000000
+      internalID: -7620125008269525198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_109
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73adb71ffed78dd10800000000000000
+      internalID: 2150607291571493431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_110
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934b8b1be36f23930800000000000000
+      internalID: 4121627358127502393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85837cb7b0256950800000000000000
+      internalID: 6441590815536153997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_112
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040e44ed5d24cb510800000000000000
+      internalID: 1566200256742613056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_113
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd8bf898f8691730800000000000000
+      internalID: 3970319963431603702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_114
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe47bda13f2866890800000000000000
+      internalID: -7465135351680764689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_115
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13fb3e60bfe2b920800000000000000
+      internalID: 3004727442452247322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_116
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225ec44b6024095d0800000000000000
+      internalID: -3057871550422391518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 234
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3a3cdc77ad6d730800000000000000
+      internalID: 4023643525190230968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf701e625380a4f0800000000000000
+      internalID: -819510742124298293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6bda87664bdb8d0800000000000000
+      internalID: -2828906638714489162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_120
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172c3ace9468d5ba0800000000000000
+      internalID: -6098570668328893839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_121
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f284638234e5c0800000000000000
+      internalID: -4187166213639310751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10aa9899f625268b0800000000000000
+      internalID: -5160471583742383615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_123
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4b96e7818b80b50800000000000000
+      internalID: 6559695272604710130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15cde00b4a69dcf0800000000000000
+      internalID: -227033435834825442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_125
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8c165d4c9d4c70800000000000000
+      internalID: 8956987089880910514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_126
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16dad09125f606e0800000000000000
+      internalID: -1871539070612875747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_127
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d19d86ca3152020800000000000000
+      internalID: 2316279214566350105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_128
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0be7c43cc1fb640800000000000000
+      internalID: 5097824928334262512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_129
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d6b9ac84709700800000000000000
+      internalID: 545063702403406291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_130
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc01e511845f757b0800000000000000
+      internalID: -5235446351917084469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_131
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0751ac3abbfb01f0800000000000000
+      internalID: -1077490908525406451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_132
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f343458ef2e3870800000000000000
+      internalID: 8664415407999041414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_133
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a226dc7eaf6958c0800000000000000
+      internalID: -4010051197987315034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e96adbf51961520800000000000000
+      internalID: 2672483269280702008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad471dd84601905d0800000000000000
+      internalID: -3095925244778416934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ca61f9372842f0800000000000000
+      internalID: -988496988390897640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d467ad34d4c690800000000000000
+      internalID: -7582702511318575493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81186639fa40ec9a0800000000000000
+      internalID: -6211021683958578920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494ebd3d8c4d5590800000000000000
+      internalID: -7683901219714217650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a6e686fcfb0370800000000000000
+      internalID: 8289997674860947920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_141
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588938bbb5c844830800000000000000
+      internalID: 4054519890156165253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e5e354c231b470800000000000000
+      internalID: 8408557798079980442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f694a32d89cc5d4f0800000000000000
+      internalID: -804512001681634961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820be81f671e2f2d0800000000000000
+      internalID: -3246284480405655512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_145
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a8e9db7f5cbe060800000000000000
+      internalID: 6983893314996963864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797f9be7214bd34d0800000000000000
+      internalID: -3153166172560951401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_147
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e143930235f716820800000000000000
+      internalID: 2909746829257683998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_148
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4d150a0e070adb0800000000000000
+      internalID: -4782698694202764093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_149
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 106
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2745dfb38d272e060800000000000000
+      internalID: 6981268645422650482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848687c0f2bce850800000000000000
+      internalID: 6407693117050750084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_151
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ae25c8b838c2400800000000000000
+      internalID: 300759910504917612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_152
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb7ffb516299dfb0800000000000000
+      internalID: -4622502595666150478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_153
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e268ff0b42390cc00800000000000000
+      internalID: 918896109781222958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_154
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56a3aa6dfad5a040800000000000000
+      internalID: 4658370171535337051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_155
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a02f8c38cd919310800000000000000
+      internalID: 1410081641678708899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f6de83d9bee7ba0800000000000000
+      internalID: -6089170585660854432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_157
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0256f18e2c3322f0800000000000000
+      internalID: -998888521899552243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_158
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27833b6d6f5f4c250800000000000000
+      internalID: 5964162247058208882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_159
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588d13a53b7236310800000000000000
+      internalID: 1397003960680831109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_160
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df33f54635a99fdc0800000000000000
+      internalID: -3604680343776447491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_161
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6869a4d86bbfc6bc0800000000000000
+      internalID: -3788376425052334458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_162
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3e064320d538290800000000000000
+      internalID: -7889359858172894211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_163
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093176f7a664d1230800000000000000
+      internalID: 3611119899438945168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_164
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931a21b951d2a820800000000000000
+      internalID: 2928132890898863005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_165
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 42
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5e2c8b41267d50800000000000000
+      internalID: 6734606901137267593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_166
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ed2c1af61637620800000000000000
+      internalID: 2770665327846153754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_167
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 651
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37fa7028b8ba8040800000000000000
+      internalID: 4650732666171881277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_168
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3ccf6e5fe2308e0800000000000000
+      internalID: -1728486198302948410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_169
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97674454fec5d46d0800000000000000
+      internalID: -3004643193657198983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_170
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 617
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc00aa3a07faf4e0800000000000000
+      internalID: -1946972265579017037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_171
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 617
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf734b8b8be5ff0800000000000000
+      internalID: -45395842790065370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_172
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 617
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6ecedbbdd24ff20800000000000000
+      internalID: 3455437235907520182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_173
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 617
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda9f9d35ea0a3840800000000000000
+      internalID: 5204484299077688029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_174
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 617
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f923003fbd63d40800000000000000
+      internalID: 5563876226389679903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_175
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 617
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca741a3fcaf4c640800000000000000
+      internalID: 5099476446029839049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Super Bomberman - Tiles_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 634
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adfc14c83d2cde20800000000000000
+      internalID: 3376623542452682150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
