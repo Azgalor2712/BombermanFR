@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1019773247690761947}
   - component: {fileID: 2331567884161915812}
   - component: {fileID: 5512748074456257909}
+  - component: {fileID: -7951389004443281587}
   m_Layer: 0
   m_Name: BombSheet
   m_TagString: Untagged
@@ -115,5 +116,30 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 337f815094433734fa1983c47ae84292, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosion: {fileID: 5420760372081042409, guid: d5a641bee5aa51b4e8e75589b8aa29d7, type: 3}
   countdown: 3
+--- !u!61 &-7951389004443281587
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5959729653370523714}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.51, y: 0.49}
+    newSize: {x: 0.51, y: 0.49}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.46, y: 0.44}
+  m_EdgeRadius: 0

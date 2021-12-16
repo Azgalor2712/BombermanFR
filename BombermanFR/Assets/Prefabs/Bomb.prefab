@@ -122,7 +122,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 337f815094433734fa1983c47ae84292, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  explosion: {fileID: 5420760372081042409, guid: d5a641bee5aa51b4e8e75589b8aa29d7, type: 3}
   countdown: 3
-  destructible: {fileID: 11400000, guid: a7036cfa9f6be5646b6e57a904c9b584, type: 2}
-  wall: {fileID: 11400000, guid: 2c09f798d3cbfdc4f9155f148f3064b6, type: 2}

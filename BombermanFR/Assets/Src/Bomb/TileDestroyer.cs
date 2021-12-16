@@ -69,7 +69,8 @@ public class TileDestroyer : MonoBehaviour
         }
 
         Vector3 pos = tilemap.GetCellCenterWorld(cell);
-        Instantiate(explosion, pos, Quaternion.identity);
+        GameObject explosionObject = Instantiate(explosion, pos, Quaternion.identity);
+        Destroy(explosionObject, 2f);
         return true;
     }
 }
