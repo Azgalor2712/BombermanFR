@@ -10,6 +10,7 @@ public class Player : MonoBehaviour
     private PlayerMovementController movementController;
     private Vector2 movementInput;
     [SerializeField] private GameObject bombPrefab;
+    [SerializeField] private Animator _animator;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +23,9 @@ public class Player : MonoBehaviour
         ProcessInputs();
         Vector2 targetMovementDirection = new Vector2(movementInput.x, movementInput.y);
         targetMovementDirection.Normalize();
+        _animator.SetFloat("Horizontal",targetMovementDirection.x);
+        _animator.SetFloat("Vertical", targetMovementDirection.y);
+        _animator.SetFloat("Speed", targetMovementDirection.sqrMagnitude);
         movementController.Move(targetMovementDirection*speed);
 
     }

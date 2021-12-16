@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerMovementController : MonoBehaviour
 {
     private Rigidbody2D _rb;
-    private Transform _body;
+    //private Transform _body;
     
     private Vector2 _targetVelocity;
     private Quaternion _targetRotation;
@@ -23,7 +23,7 @@ public class PlayerMovementController : MonoBehaviour
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        _body = transform.Find("PlayerBody");
+        //_body = transform.Find("PlayerBody");
     }
 
     void Update()
