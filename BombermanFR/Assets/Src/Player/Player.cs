@@ -11,26 +11,28 @@ public class Player : MonoBehaviour
     private Vector2 movementInput;
     [SerializeField] private GameObject bombPrefab;
     [SerializeField] private Animator _animator;
-    // Start is called before the first frame update
+
     void Start()
     {
         movementController = GetComponent<PlayerMovementController>();
     }
 
-    // Update is called once per frame
+
     void Update()
     {
         ProcessInputs();
         Vector2 targetMovementDirection = new Vector2(movementInput.x, movementInput.y);
         targetMovementDirection.Normalize();
+        //animacion de movimiento
         _animator.SetFloat("Horizontal",targetMovementDirection.x);
         _animator.SetFloat("Vertical", targetMovementDirection.y);
         _animator.SetFloat("Speed", targetMovementDirection.sqrMagnitude);
+        //movimiento
         movementController.Move(targetMovementDirection*speed);
 
     }
 
-    void ProcessInputs()
+    void ProcessInputs() //como el nombre dice, proceso los inputs del player
     {
         movementInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
         if (Input.GetKeyDown (KeyCode.Space))
@@ -39,7 +41,7 @@ public class Player : MonoBehaviour
         }
     }
 
-    private void DropBomb()
+    private void DropBomb() //se usa para que el jugador pueda poner bombas al presionar espacio
     {
         Vector3Int cell = tilemap.WorldToCell(transform.position);
         Vector3 cellCenter = tilemap.GetCellCenterWorld(cell);

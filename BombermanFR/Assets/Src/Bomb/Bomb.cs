@@ -6,20 +6,25 @@ using UnityEngine.Tilemaps;
 public class Bomb : MonoBehaviour
 {
     [SerializeField] private float countdown = 3f;
+    private Collider2D _collider;
 
-    // Start is called before the first frame update
     void Start()
     {
-        
+        this._collider = GetComponent<Collider2D>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         countdown -= Time.deltaTime;
+        _collider.enabled = false; //se desactiva el collider para evitar conflictos que luego encierran al jugador
+        if(countdown <= 2)
+        {
+            this._collider.enabled = true; //se activa el collider despues de cierto tiempo
+        }
+
         if(countdown <= 0)
         {
-            FindObjectOfType<TileDestroyer>().Explode(transform.position);
+            FindObjectOfType<TileDestroyer>().Explode(transform.position); //se genera la explosionen el rango determinado
             Destroy(gameObject);
         }
     }

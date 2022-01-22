@@ -3,7 +3,6 @@ using UnityEngine;
 public class PlayerMovementController : MonoBehaviour
 {
     private Rigidbody2D _rb;
-    //private Transform _body;
     
     private Vector2 _targetVelocity;
     private Quaternion _targetRotation;
@@ -23,16 +22,15 @@ public class PlayerMovementController : MonoBehaviour
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
-        //_body = transform.Find("PlayerBody");
     }
 
     void Update()
     {
-        //_body.rotation = Quaternion.RotateTowards(_body.rotation,  _targetRotation, _targetRotationSpeed);
+
     }
 
     void FixedUpdate()
     {
-        _rb.velocity = _targetVelocity;
+        _rb.velocity = _targetVelocity; //cambia la velocidad a partir de los inputs procesadoss
     }
 }

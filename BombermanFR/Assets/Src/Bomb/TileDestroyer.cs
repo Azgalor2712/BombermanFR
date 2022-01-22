@@ -16,19 +16,18 @@ public class TileDestroyer : MonoBehaviour
 
 
     [SerializeField] private Tilemap tilemap;
-    // Start is called before the first frame update
+
     void Start()
     {
         
     }
 
-    // Update is called once per frame
     void Update()
     {
         
     }
 
-    public void Explode(Vector3 position)
+    public void Explode(Vector3 position) //controla el rago de la explosion
     {
         Vector3Int explosition = tilemap.WorldToCell(position);
         ExplodeByCell(explosition);
@@ -54,7 +53,9 @@ public class TileDestroyer : MonoBehaviour
         
     }
 
-    bool ExplodeByCell(Vector3Int cell)
+    //genera los prefabs de explosion y devuelve un booleano que controla la ubicacion para esto 
+    //según si el objeto es destruible o no
+    bool ExplodeByCell(Vector3Int cell) 
     {
         Tile tile = tilemap.GetTile<Tile>(cell);
 
@@ -70,7 +71,7 @@ public class TileDestroyer : MonoBehaviour
 
         Vector3 pos = tilemap.GetCellCenterWorld(cell);
         GameObject explosionObject = Instantiate(explosion, pos, Quaternion.identity);
-        Destroy(explosionObject, 2f);
+        Destroy(explosionObject, 0.6f); //escojo 0.6 por el framerate de la animacion de explosion
         return true;
     }
 }
