@@ -12,14 +12,11 @@ public class TileDestroyer : MonoBehaviour
     [SerializeField] private Tile wall2;
     [SerializeField] private Tile wall3;
     [SerializeField] private Tile wall4;
-
-
-
     [SerializeField] private Tilemap tilemap;
 
     void Start()
     {
-        
+        GameEvent.OnBombExplode += OnBombExplode;
     }
 
     void Update()
@@ -27,7 +24,12 @@ public class TileDestroyer : MonoBehaviour
         
     }
 
-    public void Explode(Vector3 position) //controla el rago de la explosion
+    void OnDestroy()
+    {
+        GameEvent.OnBombExplode -= OnBombExplode;
+    }
+
+    public void OnBombExplode(Vector3 position) //controla el rago de la explosion
     {
         Vector3Int explosition = tilemap.WorldToCell(position);
         ExplodeByCell(explosition);

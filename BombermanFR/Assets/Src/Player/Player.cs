@@ -9,6 +9,7 @@ public class Player : MonoBehaviour
     [SerializeField] private float speed = 5f;
     private PlayerMovementController movementController;
     private Vector2 movementInput;
+    GameObject bomb;
     [SerializeField] private GameObject bombPrefab;
     [SerializeField] private Animator _animator;
 
@@ -29,6 +30,7 @@ public class Player : MonoBehaviour
         _animator.SetFloat("Speed", targetMovementDirection.sqrMagnitude);
         //movimiento
         movementController.Move(targetMovementDirection*speed);
+        CheckBombPosition();
 
     }
 
@@ -47,7 +49,20 @@ public class Player : MonoBehaviour
         Vector3 cellCenter = tilemap.GetCellCenterWorld(cell);
         if(bombPrefab)
         {
-            Instantiate(bombPrefab,cellCenter,Quaternion.identity);
+            bomb = Instantiate(bombPrefab,cellCenter,Quaternion.identity);
+        }
+    }
+
+    void CheckBombPosition() //checa la posicion de la bomba para saber cuando activar el collider
+    {
+        if(bomb != null)
+        {
+            Vector3Int cell = tilemap.WorldToCell(transform.position);
+            Vector3Int bombCell = tilemap.WorldToCell(bomb.transform.position);
+            if(cell != bombCell)
+            {
+                bomb.GetComponent<BoxCollider2D>().enabled = true;
+            }
         }
     }
 }
