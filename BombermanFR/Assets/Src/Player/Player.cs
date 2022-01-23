@@ -6,7 +6,7 @@ using UnityEngine.Tilemaps;
 public class Player : MonoBehaviour
 {
     [SerializeField] private Tilemap tilemap;
-    [SerializeField] private float speed = 5f;
+    private float speed = 3f;
     private PlayerMovementController movementController;
     private Vector2 movementInput;
     GameObject bomb;
@@ -14,6 +14,8 @@ public class Player : MonoBehaviour
     [SerializeField] private Animator _animator;
     public bool isDead = false;
     public int bombs;
+    private bool isPowerUpOn = false;
+    private float speedTime = 6f;
 
     void Start()
     {
@@ -39,6 +41,18 @@ public class Player : MonoBehaviour
         movementController.Move(targetMovementDirection*speed);
         CheckBombPosition();
         _animator.SetBool("isDead", isDead);
+        //Comprueba el powerup de la velocidad
+        if(isPowerUpOn)
+        {
+            speedTime -= Time.deltaTime;
+            Debug.Log(speedTime);
+        }
+        
+        if(speedTime <= 0)
+        {
+            isPowerUpOn = false;
+            speed = 3f;
+        }
     }
 
     void ProcessInputs() //como el nombre dice, proceso los inputs del player
@@ -79,6 +93,22 @@ public class Player : MonoBehaviour
         if(other.GetComponent<ExtraBomb>())
         {
             bombs += 1;
+            Destroy(other.gameObject);
+        }
+
+        else if(other.GetComponent<SpeedUp>())
+        {
+            speed = 10f;
+            isPowerUpOn = true;
+            speedTime = 6f;
+            Destroy(other.gameObject);
+        }
+
+        if(other.GetComponent<SpeedDown>())
+        {
+            speed -= 2f;
+            isPowerUpOn = true;
+            speedTime = 6f;
             Destroy(other.gameObject);
         }
     }

@@ -3765,6 +3765,8 @@ MonoBehaviour:
   tilemap: {fileID: 633054391}
   player: {fileID: 1397320067}
   extraBombPrefab: {fileID: -80187438107087861, guid: 54aedc6f2bb43054d884cb62eba76619, type: 3}
+  speedUpPrefab: {fileID: -1011179168579835498, guid: 9c15a4af8094c9c4284a5604d3dcf220, type: 3}
+  speedDownPrefab: {fileID: -4030875463096011607, guid: e00e9c2319ac86c409608a61095ead6c, type: 3}
 --- !u!1 &1615955003
 GameObject:
   m_ObjectHideFlags: 0

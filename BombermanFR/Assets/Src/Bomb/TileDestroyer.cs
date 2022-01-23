@@ -15,6 +15,8 @@ public class TileDestroyer : MonoBehaviour
     [SerializeField] private Tilemap tilemap;
     [SerializeField] private Player player;
     [SerializeField] private ExtraBomb extraBombPrefab;
+    [SerializeField] private SpeedUp speedUpPrefab;
+    [SerializeField] private SpeedDown speedDownPrefab;
 
     void Start()
     {
@@ -84,10 +86,22 @@ public class TileDestroyer : MonoBehaviour
 
     void OnPowerUpSpawn(Vector3Int position)
     {
-        if(Random.Range(1f, 100f) < 30f)
+        if(Random.Range(1f, 100f) < 0)
         {
             Vector3 pos = tilemap.GetCellCenterWorld(position);
             Instantiate(extraBombPrefab,pos,Quaternion.identity);
+        }
+
+        else if(Random.Range(1f, 100f) > 0)
+        {
+            Vector3 pos = tilemap.GetCellCenterWorld(position);
+            Instantiate(speedUpPrefab,pos,Quaternion.identity);
+        }
+
+        else if(Random.Range(1f, 100f) < 0)
+        {
+            Vector3 pos = tilemap.GetCellCenterWorld(position);
+            Instantiate(speedDownPrefab,pos,Quaternion.identity);
         }
     }
 }
