@@ -3655,6 +3655,8 @@ MonoBehaviour:
   speed: 2
   bombPrefab: {fileID: 5959729653370523714, guid: dcdf6dc8ffce7f048aa904302818b1f2, type: 3}
   _animator: {fileID: 1397320069}
+  isDead: 0
+  bombs: 0
 --- !u!50 &1397320068
 Rigidbody2D:
   serializedVersion: 4
@@ -3761,6 +3763,8 @@ MonoBehaviour:
   wall3: {fileID: 11400000, guid: c28f57ab3b7e59342b8dbfb25fcfbad3, type: 2}
   wall4: {fileID: 11400000, guid: 8f2b541749ed69442a3bdd9b5233e9b7, type: 2}
   tilemap: {fileID: 633054391}
+  player: {fileID: 1397320067}
+  extraBombPrefab: {fileID: -80187438107087861, guid: 54aedc6f2bb43054d884cb62eba76619, type: 3}
 --- !u!1 &1615955003
 GameObject:
   m_ObjectHideFlags: 0

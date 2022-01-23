@@ -13,10 +13,13 @@ public class TileDestroyer : MonoBehaviour
     [SerializeField] private Tile wall3;
     [SerializeField] private Tile wall4;
     [SerializeField] private Tilemap tilemap;
+    [SerializeField] private Player player;
+    [SerializeField] private ExtraBomb extraBombPrefab;
 
     void Start()
     {
         GameEvent.OnBombExplode += OnBombExplode;
+        GameEvent.OnPowerUpSpawn += OnPowerUpSpawn;
     }
 
     void Update()
@@ -27,6 +30,7 @@ public class TileDestroyer : MonoBehaviour
     void OnDestroy()
     {
         GameEvent.OnBombExplode -= OnBombExplode;
+        GameEvent.OnPowerUpSpawn -= OnPowerUpSpawn;
     }
 
     public void OnBombExplode(Vector3 position) //controla el rago de la explosion
@@ -52,7 +56,7 @@ public class TileDestroyer : MonoBehaviour
         {
             ExplodeByCell(explosition + new Vector3Int(0,-2,0));
         }
-        
+        player.bombs += 1;
     }
 
     //genera los prefabs de explosion y devuelve un booleano que controla la ubicacion para esto 
@@ -69,11 +73,21 @@ public class TileDestroyer : MonoBehaviour
         if (tile == destructible)
         {
             tilemap.SetTile(cell, null);
+            OnPowerUpSpawn(cell);
         }
 
         Vector3 pos = tilemap.GetCellCenterWorld(cell);
         GameObject explosionObject = Instantiate(explosion, pos, Quaternion.identity);
         Destroy(explosionObject, 0.6f); //escojo 0.6 por el framerate de la animacion de explosion
         return true;
+    }
+
+    void OnPowerUpSpawn(Vector3Int position)
+    {
+        if(Random.Range(1f, 100f) > 0)
+        {
+            Vector3 pos = tilemap.GetCellCenterWorld(position);
+            Instantiate(extraBombPrefab,pos,Quaternion.identity);
+        }
     }
 }

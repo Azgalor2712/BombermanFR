@@ -13,11 +13,13 @@ public class Player : MonoBehaviour
     [SerializeField] private GameObject bombPrefab;
     [SerializeField] private Animator _animator;
     public bool isDead = false;
+    public int bombs;
 
     void Start()
     {
         movementController = GetComponent<PlayerMovementController>();
         _animator.SetBool("isDead", isDead);
+        bombs = 1;
     }
 
 
@@ -49,9 +51,10 @@ public class Player : MonoBehaviour
     {
         Vector3Int cell = tilemap.WorldToCell(transform.position);
         Vector3 cellCenter = tilemap.GetCellCenterWorld(cell);
-        if(bombPrefab)
+        if(bombPrefab && bombs > 0)
         {
             bomb = Instantiate(bombPrefab,cellCenter,Quaternion.identity);
+            bombs -= 1;
         }
     }
 
