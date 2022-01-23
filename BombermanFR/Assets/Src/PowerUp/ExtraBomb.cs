@@ -4,15 +4,5 @@ using UnityEngine;
 
 public class ExtraBomb : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    //Este script tiene el único objetivo de permitir a este prefab ser asignado en otros códigos
 }

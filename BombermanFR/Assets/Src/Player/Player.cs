@@ -25,7 +25,10 @@ public class Player : MonoBehaviour
 
     void Update()
     {
-        ProcessInputs();
+        if(!isDead)
+        {
+            ProcessInputs();
+        }
         Vector2 targetMovementDirection = new Vector2(movementInput.x, movementInput.y);
         targetMovementDirection.Normalize();
         //animacion de movimiento
@@ -68,6 +71,15 @@ public class Player : MonoBehaviour
             {
                 bomb.GetComponent<BoxCollider2D>().enabled = true;
             }
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D other)
+    {
+        if(other.GetComponent<ExtraBomb>())
+        {
+            bombs += 1;
+            Destroy(other.gameObject);
         }
     }
 }

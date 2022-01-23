@@ -84,7 +84,7 @@ public class TileDestroyer : MonoBehaviour
 
     void OnPowerUpSpawn(Vector3Int position)
     {
-        if(Random.Range(1f, 100f) > 0)
+        if(Random.Range(1f, 100f) < 30f)
         {
             Vector3 pos = tilemap.GetCellCenterWorld(position);
             Instantiate(extraBombPrefab,pos,Quaternion.identity);
