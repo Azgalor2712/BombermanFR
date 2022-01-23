@@ -16,10 +16,12 @@ public class Explosion : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D other)
     {
-        if(other.GetComponent<Player>()) //identifica si el jugador toca la explosion para eliminar su objeto de la escena
+        Player player = other.GetComponent<Player>();
+        if(player) //identifica si el jugador toca la explosion para eliminar su objeto de la escena
         {
+            player.isDead = true;
             Debug.Log("You are dead");
-            Destroy(other.gameObject);
+            Destroy(player.gameObject, 1f);
         }
     }
 }

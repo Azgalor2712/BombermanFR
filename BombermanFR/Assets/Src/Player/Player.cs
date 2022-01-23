@@ -12,10 +12,12 @@ public class Player : MonoBehaviour
     GameObject bomb;
     [SerializeField] private GameObject bombPrefab;
     [SerializeField] private Animator _animator;
+    public bool isDead = false;
 
     void Start()
     {
         movementController = GetComponent<PlayerMovementController>();
+        _animator.SetBool("isDead", isDead);
     }
 
 
@@ -31,7 +33,7 @@ public class Player : MonoBehaviour
         //movimiento
         movementController.Move(targetMovementDirection*speed);
         CheckBombPosition();
-
+        _animator.SetBool("isDead", isDead);
     }
 
     void ProcessInputs() //como el nombre dice, proceso los inputs del player
