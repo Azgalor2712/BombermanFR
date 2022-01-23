@@ -45,7 +45,6 @@ public class Player : MonoBehaviour
         if(isPowerUpOn)
         {
             speedTime -= Time.deltaTime;
-            Debug.Log(speedTime);
         }
         
         if(speedTime <= 0)
@@ -108,7 +107,7 @@ public class Player : MonoBehaviour
         {
             speed -= 2f;
             isPowerUpOn = true;
-            speedTime = 6f;
+            speedTime = 4f;
             Destroy(other.gameObject);
         }
     }
