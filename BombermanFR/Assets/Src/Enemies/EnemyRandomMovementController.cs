@@ -51,8 +51,10 @@ public class EnemyRandomMovementController : MonoBehaviour
         _animator.SetFloat("Speed", transform.position.sqrMagnitude);
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
+        Debug.LogError("Entro colision!!!");
+        latestDirectionChangeTime = Time.time;
         calculateNewMovementVector();
         Move(velocity);
     }
