@@ -53,7 +53,6 @@ public class EnemyRandomMovementController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.LogError("Entro colision!!!");
         latestDirectionChangeTime = Time.time;
         calculateNewMovementVector();
         Move(velocity);
