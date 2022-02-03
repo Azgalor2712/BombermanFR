@@ -8,4 +8,9 @@ public static class GameEvent
     public static BombExplodeEvent OnBombExplode;
     public delegate void PowerUpSpawnEvent (Vector3Int position);
     public static PowerUpSpawnEvent OnPowerUpSpawn;
+    public delegate void GameStartAction();
+    public static GameStartAction OnGameStartEvent;
+
+    public delegate void GameOverAction();
+    public static GameOverAction OnGameOverEvent;
 }
