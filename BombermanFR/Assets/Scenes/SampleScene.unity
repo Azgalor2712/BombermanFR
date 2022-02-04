@@ -3814,6 +3814,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1350210512}
+  - component: {fileID: 1350210513}
   m_Layer: 0
   m_Name: Menu
   m_TagString: Untagged
@@ -3836,6 +3837,18 @@ Transform:
   m_Father: {fileID: 1948514616}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!225 &1350210513
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1350210511}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &1397320062
 GameObject:
   m_ObjectHideFlags: 0
@@ -7883,6 +7896,7 @@ GameObject:
   - component: {fileID: 1966499732}
   - component: {fileID: 1966499734}
   - component: {fileID: 1966499733}
+  - component: {fileID: 1966499735}
   m_Layer: 5
   m_Name: LevelText
   m_TagString: Untagged
@@ -8006,3 +8020,15 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1966499731}
   m_CullTransparentMesh: 1
+--- !u!225 &1966499735
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1966499731}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
