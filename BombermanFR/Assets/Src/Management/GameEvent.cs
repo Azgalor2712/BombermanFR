@@ -10,7 +10,6 @@ public static class GameEvent
     public static PowerUpSpawnEvent OnPowerUpSpawn;
     public delegate void GameStartAction();
     public static GameStartAction OnGameStartEvent;
-
     public delegate void GameOverAction();
     public static GameOverAction OnGameOverEvent;
 }
