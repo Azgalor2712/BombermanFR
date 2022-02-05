@@ -9,11 +9,13 @@ public class EnemyRandomMovementController : MonoBehaviour
     [SerializeField] private Animator _animator;
     private Vector2[] movementDirections = new Vector2[4];
     private Vector2 actualMovementDirection;
+    public bool isDead;
 
 
 
     void Start()
     {
+        isDead = false;
         movementDirections[0] = new Vector2(0, 1).normalized; // Right
         movementDirections[1] = new Vector2(-1, 0).normalized; // Left
         movementDirections[2] = new Vector2(0, 1).normalized; // Up
@@ -25,7 +27,6 @@ public class EnemyRandomMovementController : MonoBehaviour
     {
         if (((Vector2)transform.position - initialPosition).magnitude <= 0.01)
         {
-            Debug.Log("Entro");
             actualMovementDirection = movementDirections[Random.Range(0, 4)];
             Move(actualMovementDirection * characterVelocity);
         }

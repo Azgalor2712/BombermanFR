@@ -111,4 +111,15 @@ public class Player : MonoBehaviour
             Destroy(other.gameObject);
         }
     }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if(other.gameObject.GetComponent<EnemyRandomMovementController>())
+        {
+            this.isDead = true;
+            Debug.Log("You are dead");
+            Destroy(gameObject, 1f);
+            GameEvent.OnGameOverEvent?.Invoke();
+        }
+    }
 }
