@@ -2,44 +2,46 @@ using UnityEngine;
 
 public class EnemyRandomMovementController : MonoBehaviour
 {
-    private float latestDirectionChangeTime;
-    private readonly float directionChangeTime = 3f;
+    private Vector2 initialPosition;
+    private bool colissionDetected;
+
     [SerializeField] private float characterVelocity = 2f;
     [SerializeField] private Animator _animator;
-    private Vector2 movementDirection;
-    private Vector2 velocity;
+    private Vector2[] movementDirections = new Vector2[4];
+    private Vector2 actualMovementDirection;
+
 
 
     void Start()
     {
-        latestDirectionChangeTime = 0f;
-        calculateNewMovementVector();
-    }
-
-    void calculateNewMovementVector()
-    {
-        //create a random direction vector with the magnitude of 1, later multiply it with the velocity of the enemy
-        bool randomDirection = (Random.value > 0.5f);
-        if (randomDirection) {
-            movementDirection = new Vector2(Random.Range(-1.0f, 1.0f), 0).normalized; //Moving towards x axis
-        }
-        else
-        {
-            movementDirection = new Vector2(0, Random.Range(-1.0f, 1.0f)).normalized; //Moving towards y axis
-        }
-        
-        velocity = movementDirection * characterVelocity;
+        movementDirections[0] = new Vector2(0, 1).normalized; // Right
+        movementDirections[1] = new Vector2(-1, 0).normalized; // Left
+        movementDirections[2] = new Vector2(0, 1).normalized; // Up
+        movementDirections[3] = new Vector2(0, -1).normalized; // Down
+        initialPosition = transform.position;
     }
 
     void Update()
     {
-        //if the changeTime was reached, calculate a new movement vector
-        if (Time.time - latestDirectionChangeTime > directionChangeTime)
+        if (((Vector2)transform.position - initialPosition).magnitude <= 0.01)
         {
-            latestDirectionChangeTime = Time.time;
-            calculateNewMovementVector();
+            Debug.Log("Entro");
+            actualMovementDirection = movementDirections[Random.Range(0, 4)];
+            Move(actualMovementDirection * characterVelocity);
         }
-        Move(velocity);
+        if (colissionDetected && ((Vector2)transform.position - initialPosition).magnitude >= 0.01)
+        {
+            Move(-actualMovementDirection * characterVelocity);
+            if (((Vector2)transform.position - initialPosition).magnitude <= 0.01)
+            {
+                colissionDetected = false;
+            }
+        }
+        if (!colissionDetected && ((Vector2)transform.position - initialPosition).magnitude >= 0.01)
+        {
+            Move(actualMovementDirection * characterVelocity);
+        }
+
     }
 
     private void Move(Vector2 velocity)
@@ -53,8 +55,6 @@ public class EnemyRandomMovementController : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        latestDirectionChangeTime = Time.time;
-        calculateNewMovementVector();
-        Move(velocity);
+        colissionDetected = true;
     }
 }
