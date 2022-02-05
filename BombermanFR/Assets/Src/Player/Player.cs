@@ -57,7 +57,7 @@ public class Player : MonoBehaviour
     void ProcessInputs() //como el nombre dice, proceso los inputs del player
     {
         movementInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"));
-        if (Input.GetKeyDown (KeyCode.Space))
+        if (Input.GetKeyDown (KeyCode.K))
         {
             DropBomb();
         }

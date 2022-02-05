@@ -10,7 +10,7 @@ public class UI_Menu : MonoBehaviour
     
     void Start()
     {
-        _canvasGroup = GetComponent<CanvasGroup>();
+        _canvasGroup = GetComponentInChildren<CanvasGroup>();
         _sprite = GetComponentInChildren<SpriteRenderer>();
         _canvasGroup.alpha = 1;
         GameEvent.OnGameStartEvent += OnGameStart;

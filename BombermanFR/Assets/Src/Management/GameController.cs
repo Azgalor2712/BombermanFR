@@ -15,7 +15,7 @@ public class GameController : MonoBehaviour
     {
         if(Input.GetKeyDown (KeyCode.Space))
         {
-            GameEvent.OnGameStartEvent.Invoke();
+            GameEvent.OnGameStartEvent?.Invoke();
         }
     }
 }

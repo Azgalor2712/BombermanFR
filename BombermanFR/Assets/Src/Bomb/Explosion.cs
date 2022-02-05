@@ -22,6 +22,7 @@ public class Explosion : MonoBehaviour
             player.isDead = true;
             Debug.Log("You are dead");
             Destroy(player.gameObject, 1f);
+            GameEvent.OnGameOverEvent?.Invoke();
         }
     }
 }
